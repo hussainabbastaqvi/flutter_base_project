@@ -279,6 +279,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_appcenter_bundle:
+    dependency: "direct main"
+    description:
+      path: flutter_appcenter_bundle
+      relative: true
+    source: path
+    version: "3.3.2"
   flutter_blurhash:
     dependency: transitive
     description:

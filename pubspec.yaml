@@ -24,6 +24,8 @@ dependencies:
   retrofit: '>=3.0.0 <4.0.0'
   floor: ^1.2.0 # SQLITE comment it out if you dont need
   flutter_native_splash: ^2.1.5
+  flutter_appcenter_bundle:
+    path: ../../base_project/flutter_base_project/flutter_appcenter_bundle
 
 dev_dependencies:
   flutter_test:
